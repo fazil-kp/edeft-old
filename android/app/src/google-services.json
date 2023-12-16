@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418744522615",
+    "project_id": "edeft-68ff1",
+    "storage_bucket": "edeft-68ff1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418744522615:android:5e9d2e86aad5f642a93372",
+        "android_client_info": {
+          "package_name": "com.example.edeft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418744522615-ud1fg354mm9108dmlj9g4bavllms9vdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOKskZ8E3PS9taRVNM5W-WvYolU4-W0AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418744522615-ud1fg354mm9108dmlj9g4bavllms9vdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
