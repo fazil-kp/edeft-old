@@ -40,7 +40,6 @@ class _MyAppState extends State<MyApp> {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'edeft',
-      
       home: SplashScreen(),
     );
   }
