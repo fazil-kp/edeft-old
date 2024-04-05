@@ -23,7 +23,7 @@ Future main() async {
 }
 
 class MyApp extends StatefulWidget {
-  
+
   const MyApp({super.key});
 
   @override
@@ -41,6 +41,7 @@ class _MyAppState extends State<MyApp> {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'edeft',
+      
       home: SplashScreen(),
     );
   }
