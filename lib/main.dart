@@ -42,6 +42,9 @@ class _MyAppState extends State<MyApp> {
       debugShowCheckedModeBanner: false,
       title: 'edeft',      
       home: SplashScreen(),
+
+      
+
     );
   }
 }
