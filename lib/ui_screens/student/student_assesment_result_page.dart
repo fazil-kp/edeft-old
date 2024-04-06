@@ -17,7 +17,7 @@ class _StudentAssessmentResultPageState extends State<StudentAssessmentResultPag
 
   List<List<dynamic>> resultArray = [
     [
-      ['Arabic', 90],
+      ['Arabic', 95],
       ["English", 95],
       ["Biology", 80],
       ["Chemistry", 95],
