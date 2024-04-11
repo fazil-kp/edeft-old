@@ -13,7 +13,6 @@ Future main() async {
       providers: [
         
 
-
         
         ChangeNotifierProvider(create: (_) => MyData()),
         ChangeNotifierProvider(create: (context) => StudentModelProvider()),
