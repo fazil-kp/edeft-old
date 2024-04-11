@@ -29,7 +29,6 @@ Future main() async {
 
 
 
-
         
         ChangeNotifierProvider(create: (_) => MyData()),
         ChangeNotifierProvider(create: (context) => StudentModelProvider()),
