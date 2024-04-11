@@ -12,7 +12,6 @@ Future main() async {
     MultiProvider(
       providers: [
         
-        
         ChangeNotifierProvider(create: (_) => MyData()),
         ChangeNotifierProvider(create: (context) => StudentModelProvider()),
         ChangeNotifierProvider(create: (context) => FacultyModelProvider()),
