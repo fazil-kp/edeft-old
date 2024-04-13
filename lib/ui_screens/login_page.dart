@@ -22,19 +22,6 @@ class _CombinedLoginPageState extends State<CombinedLoginPage> {
   final _formKey = GlobalKey<FormState>();
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
   String _userName = '';
   String _password = '';
 
