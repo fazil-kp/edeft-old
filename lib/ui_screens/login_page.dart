@@ -54,7 +54,6 @@ class _CombinedLoginPageState extends State<CombinedLoginPage> {
 
 
 
-
   String _userName = '';
   String _password = '';
 
