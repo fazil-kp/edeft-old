@@ -20,14 +20,10 @@ class CombinedLoginPage extends StatefulWidget {
 
 class _CombinedLoginPageState extends State<CombinedLoginPage> {
   final _formKey = GlobalKey<FormState>();
-
   String _userName = '';
   String _password = '';
-
   String errorMsg = '';
-
   bool passEnable = true;
-
   void _trySubmitForm() async {
     final bool? isValid = _formKey.currentState?.validate();
     if (isValid == true) {
