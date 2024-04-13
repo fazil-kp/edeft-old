@@ -47,12 +47,11 @@ class _CombinedLoginPageState extends State<CombinedLoginPage> {
 
 
 
-
-
-
   String _userName = '';
   String _password = '';
+
   String errorMsg = '';
+
   bool passEnable = true;
 
   void _trySubmitForm() async {
